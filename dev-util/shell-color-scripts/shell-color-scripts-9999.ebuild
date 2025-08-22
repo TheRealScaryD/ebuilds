@@ -20,6 +20,6 @@ dev-vcs-git
 "
 RDEPEND="${DEPEMD}"
 
-src_instal; () {
+src_install; () {
  doins -r shell-color-scripts/*
 }
