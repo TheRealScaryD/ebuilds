@@ -1,0 +1,14 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install unpack
+DEPEND=sys-devel/binutils dev-build/make app-shells/bash dev-vcs/git
+DESCRIPTION=A collection of shell color scripts for display
+EAPI=8
+HOMEPAGE=https://gitlab.com/dwt1/shell-color-scripts
+INHERIT=git-r3
+KEYWORDS=~amd64
+LICENSE=GPL-2
+PROPERTIES=live
+RDEPEND=sys-devel/binutils dev-build/make app-shells/bash dev-vcs/git
+SLOT=0
+_eclasses_=git-r3	875eb471682d3e1f18da124be97dcc81
+_md5_=20ab5cc64c304a1f52fb471c1365ecf3
